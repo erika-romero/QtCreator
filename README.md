@@ -4,3 +4,5 @@ En este repositorio se encuentran dos directorios desarrollados en la materia In
 
 * Algebra01: Operaciones básicas con matrices utilizando la biblioteca Eigen.
 * ModeloLinealR-: Se lee un dataset utilizando matrices y la biblioteca Eigen.
+
+
