@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/R/MIGUE/ModeloLinealR/Extraccion/extraer.h
+iostream
+-
+fstream
+-
+vector
+-
+eigen3/Eigen/Dense
+-
+
+/home/ubuntu/R/MIGUE/ModeloLinealR/main.cpp
+Extraccion/extraer.h
+/home/ubuntu/R/MIGUE/ModeloLinealR/Extraccion/extraer.h
+iostream
+-
+vector
+-
+stdlib.h
+-
+eigen3/Eigen/Dense
+-
+boost/algorithm/string.hpp
+-
+string.h
+-
+

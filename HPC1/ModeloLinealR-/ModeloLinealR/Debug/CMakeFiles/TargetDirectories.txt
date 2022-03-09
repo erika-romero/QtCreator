@@ -1,0 +1,3 @@
+/home/ubuntu/R/MIGUE/ModeloLinealR/Debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/R/MIGUE/ModeloLinealR/Debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/R/MIGUE/ModeloLinealR/Debug/CMakeFiles/ModeloLinealR.dir

@@ -1,0 +1,3 @@
+/home/a/Documents/HPC1/Algebra01/Debug/CMakeFiles/edit_cache.dir
+/home/a/Documents/HPC1/Algebra01/Debug/CMakeFiles/rebuild_cache.dir
+/home/a/Documents/HPC1/Algebra01/Debug/CMakeFiles/Algebra01.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/ModeloLinealR.dir/main.cpp.o CMakeFiles/ModeloLinealR.dir/Extraccion/extraer.cpp.o  -o ModeloLinealR 
